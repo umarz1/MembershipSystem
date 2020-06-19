@@ -11,7 +11,7 @@ namespace MemebershipSystem.Migrations
         {
             var connectionString =
                 args.FirstOrDefault()
-                ?? "Data Source=DESKTOP-QOMJGOG;Integrated Security=True; Database=MembershipSystem; ";
+                ?? "Data Source=(local);Integrated Security=True; Database=MembershipSystem; ";
 
             EnsureDatabase.For.SqlDatabase(connectionString);
 

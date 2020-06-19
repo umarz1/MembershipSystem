@@ -1,9 +1,0 @@
-C:\Git\MembershipSystem\MemberSystem.ApiContract\obj\Debug\netcoreapp3.1\MemberSystem.ApiContract.csprojAssemblyReference.cache
-C:\Git\MembershipSystem\MemberSystem.ApiContract\obj\Debug\netcoreapp3.1\MemberSystem.ApiContract.csproj.CoreCompileInputs.cache
-C:\Git\MembershipSystem\MemberSystem.ApiContract\obj\Debug\netcoreapp3.1\MemberSystem.ApiContract.AssemblyInfoInputs.cache
-C:\Git\MembershipSystem\MemberSystem.ApiContract\obj\Debug\netcoreapp3.1\MemberSystem.ApiContract.AssemblyInfo.cs
-C:\Git\MembershipSystem\MemberSystem.ApiContract\bin\Debug\netcoreapp3.1\MemberSystem.ApiContract.deps.json
-C:\Git\MembershipSystem\MemberSystem.ApiContract\bin\Debug\netcoreapp3.1\MemberSystem.ApiContract.dll
-C:\Git\MembershipSystem\MemberSystem.ApiContract\bin\Debug\netcoreapp3.1\MemberSystem.ApiContract.pdb
-C:\Git\MembershipSystem\MemberSystem.ApiContract\obj\Debug\netcoreapp3.1\MemberSystem.ApiContract.dll
-C:\Git\MembershipSystem\MemberSystem.ApiContract\obj\Debug\netcoreapp3.1\MemberSystem.ApiContract.pdb
