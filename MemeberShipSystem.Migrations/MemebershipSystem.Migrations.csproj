@@ -6,6 +6,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Script001 - CreateTables.sql" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Script001 - CreateTables.sql" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="dbup-sqlserver" Version="4.3.1" />
   </ItemGroup>
 
