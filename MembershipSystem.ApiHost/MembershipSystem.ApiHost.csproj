@@ -8,5 +8,11 @@
     <ProjectReference Include="..\MemberSystem.ApiContract\MemberSystem.ApiContract.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.35" />
+    <PackageReference Include="MediatR" Version="8.0.1" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.1" />
+  </ItemGroup>
+
 
 </Project>

@@ -7,10 +7,12 @@
 
   <ItemGroup>
     <None Remove="Script001 - CreateTables.sql" />
+    <None Remove="Script002 - TestData.sql" />
   </ItemGroup>
 
   <ItemGroup>
     <EmbeddedResource Include="Script001 - CreateTables.sql" />
+    <EmbeddedResource Include="Script002 - TestData.sql" />
   </ItemGroup>
 
   <ItemGroup>
